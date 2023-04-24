@@ -1,0 +1,44 @@
+.modal {
+  border-radius: 37px;
+  text-align: center;
+  position: fixed;
+  top: -200%;
+  left: 0;
+  width: 100%;
+  height: 80%;
+  background-color: #ff7272;
+  z-index: 9999;
+  transition: top 0.8s ease;
+}
+
+.modal.active {
+  top: 0;
+
+  h2 {
+    font-size: 33px;
+  }
+  p {
+    font-size: 27px;
+    margin-top: 40px;
+  }
+
+  .close-modal-btn {
+    text-align: center;
+    background-color: white;
+    border: 1px solid #bbb;
+    height: 43px;
+    padding: 47px 40px;
+    border-radius: 50px;
+    line-height: 0.5;
+    font-size: 15px;
+    color: #555;
+    margin-top: 30px;
+    cursor: pointer;
+
+    &:hover {
+      color: #000000;
+      border-color: #ffffff;
+      outline: 0;
+    }
+  }
+}
