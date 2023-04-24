@@ -8,9 +8,6 @@ var userController = require("./controller/user.controller.ts");
 
 const app = express();
 
-app.use(cookieParser());
-app.use(express.json());
-
 if (process.env.NODE_ENV === "production") {
   app.use(express.static(path.resolve(__dirname, "public")));
 } else {
@@ -20,6 +17,9 @@ if (process.env.NODE_ENV === "production") {
   };
   app.use(cors(corsOptions));
 }
+
+app.use(cookieParser());
+app.use(express.json());
 
 app.get(
   "/api/scores",

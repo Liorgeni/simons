@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[718],{718:function(e,p,a){e.exports=a.p+"static/media/green-sound.1eb5aa4cd41771f65406.mp3"}}]);

@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2bcb879b.css",
+    "main.js": "/static/js/main.6a572a01.js",
+    "static/js/661.801bb4d6.chunk.js": "/static/js/661.801bb4d6.chunk.js",
+    "static/js/718.ef2062b4.chunk.js": "/static/js/718.ef2062b4.chunk.js",
+    "static/js/569.d748b1f2.chunk.js": "/static/js/569.d748b1f2.chunk.js",
+    "static/js/748.c33b2c31.chunk.js": "/static/js/748.c33b2c31.chunk.js",
+    "static/js/254.519f354b.chunk.js": "/static/js/254.519f354b.chunk.js",
+    "static/media/SendFlowers-Regular.ttf": "/static/media/SendFlowers-Regular.2fd2518c6ee58bd505e0.ttf",
+    "static/media/over-sound.mp3": "/static/media/over-sound.2aa78b2fb934b1890257.mp3",
+    "static/media/red-sound.mp3": "/static/media/red-sound.be139b4b99ec2b2fae15.mp3",
+    "static/media/blue-sound.mp3": "/static/media/blue-sound.3d5f915659a6055e6377.mp3",
+    "static/media/green-sound.mp3": "/static/media/green-sound.1eb5aa4cd41771f65406.mp3",
+    "static/media/yellow-sound.mp3": "/static/media/yellow-sound.60f3cc7d5750955854a5.mp3",
+    "index.html": "/index.html",
+    "main.2bcb879b.css.map": "/static/css/main.2bcb879b.css.map",
+    "main.6a572a01.js.map": "/static/js/main.6a572a01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bcb879b.css",
+    "static/js/main.6a572a01.js"
+  ]
+}
